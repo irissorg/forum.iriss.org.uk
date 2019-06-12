@@ -1,0 +1,36 @@
+/**
+ * @file fix-ie.css
+ * Fixes for Internet Explorer.
+ *
+ * $Id: fix-ie.css,v 1.1.2.2 2009/08/01 17:58:31 shannonlucas Exp $
+ */
+
+h2							{ letter-spacing: 0; }
+hr.break					{ display: none; }
+#header-area				{ background-color: rgb(18,89,165); }
+#page-headline				{ padding-bottom: 32px; }
+#block-views-tweets-block	{ left: -15px; line-height: 19px; }
+#footer-area				{ border-top: 2px solid #e2e2e2; }
+#footer						{ border: none; padding-bottom: 16px; }
+
+
+div.schedule_location { 
+	display: inline;
+
+ }
+
+ 
+
+
+div.schedule_title{ 
+	display: inline;
+
+}
+
+
+ 
+div.schedule_time { 
+
+	display: inline;
+
+ }

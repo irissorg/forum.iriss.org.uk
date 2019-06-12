@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+  <service>
+    <engineName>Drupal</engineName>
+    <engineLink>http://drupal.org/</engineLink>
+    <homePageLink>http://forum.iriss.org.uk/</homePageLink>
+    <apis>
+    </apis>
+  </service>
+</rsd>
